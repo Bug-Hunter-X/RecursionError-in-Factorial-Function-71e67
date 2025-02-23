@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common error in Python: RecursionError: maximum recursion depth exceeded. The error occurs when a recursive function, such as the factorial function, is called with a negative input. This leads to infinite recursion. The solution shows how to handle such cases gracefully.
